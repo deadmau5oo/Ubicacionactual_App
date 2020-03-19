@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ubicacionactual</string>
+    <string name="ubicaciones_actuales">Ubicaciones Actuales</string>
+    <string name="Api_key" translatable="false">AIzaSyCOvp5SH3Q4ZU7OFGduLYvzcSvW4-D4c9Q</string>
+    <string name="button">Button</string>
+    <string name="activar_mapa_de_ubicaci_nes">Activar Mapa de Ubicaciónes</string>
+    <string name="inserta_tu_nickname_aqu">Inserta tu nickname aquí</string>
+    <string name="id">+ ID</string>
+    <string name="iniciar_seci_n">Iniciar Seción</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+</resources>
